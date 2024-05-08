@@ -1,1 +1,10 @@
-aiohttp lxml html5lib
+aiohttp
+lxml
+html5lib
+gspread
+gspread_pandas
+gspread_dataframe
+pydrive
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
