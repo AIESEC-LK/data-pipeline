@@ -25,6 +25,7 @@ jobs:
     - name: Set up Google Secret
       env:
         GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_SECRET_JSON }}
+      run: echo "Secret set up completed" # Placeholder run command
       
     - name: Run Python script
       run: python main.py
