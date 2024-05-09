@@ -1,4 +1,4 @@
-name: Scheduled Job
+name: Load Data To Sheets
 
 on:
   schedule:
