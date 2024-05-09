@@ -25,7 +25,7 @@ jobs:
     - name: Set up Google Secret
       env:
         GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_SECRET_JSON_FILEPATH }}
-      run: echo "$GOOGLE_APPLICATION_CREDENTIALS" > /path/to/google-secret.json
+      run: echo "$GOOGLE_APPLICATION_CREDENTIALS" > google-secret.json
       
     - name: Run Python script
       run: python main.py
