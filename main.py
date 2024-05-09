@@ -15,7 +15,7 @@ from pydrive.drive import GoogleDrive
 scopes = ['https://www.googleapis.com/auth/spreadsheets',
           'https://www.googleapis.com/auth/drive']
 
-credentials = Credentials.from_service_account_file('google_secret.json', scopes=scopes)
+credentials = Credentials.from_service_account_file('$GOOGLE_APPLICATION_CREDENTIALS', scopes=scopes)
 
 gc = gspread.authorize(credentials)
 
