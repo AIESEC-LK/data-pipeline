@@ -11,14 +11,14 @@ from gspread_dataframe import set_with_dataframe
 from google.oauth2.service_account import Credentials
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
-# import os
-
-# google_credentials_file = os.environ.get('GOOGLE_APPLICATION_CREDENTIALS')
+import os
 
 scopes = ['https://www.googleapis.com/auth/spreadsheets',
           'https://www.googleapis.com/auth/drive']
 
-credentials = Credentials.from_service_account_file(google_credentials_file, scopes=scopes)
+GOOGLE_APPLICATION_CREDENTIALS = os.environ['GOOGLE_APPLICATION_CREDENTIALS']
+
+credentials = Credentials.from_service_account_file(GOOGLE_APPLICATION_CREDENTIALS, scopes=scopes)
 
 gc = gspread.authorize(credentials)
 
