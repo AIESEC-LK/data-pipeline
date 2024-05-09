@@ -22,10 +22,6 @@ jobs:
         pip install -r requirements.txt
         # You might need to adjust this according to your project setup
         
-    - name: Set up Google Secret
-      env:
-        GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_SECRET_JSON }}
-      run: echo "export GOOGLE_APPLICATION_CREDENTIALS=${GOOGLE_APPLICATION_CREDENTIALS}" >> $GITHUB_ENV
       
     - name: Run Python script
       run: python main.py
