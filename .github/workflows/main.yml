@@ -1,8 +1,8 @@
-name: Scheduled Job
+name: Load Data To Sheets
 
-on:
-  schedule:
-    - cron: '*/5 * * * *' # Runs the job every 5 minutes
+# on:
+#   schedule:
+#     - cron: '*/5 * * * *' # Runs the job every 5 minutes
 
 jobs:
   build:
@@ -15,11 +15,13 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x' # Use the appropriate Python version
+        python-version: '3.11' # Use the appropriate Python version
         
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
+        # You might need to adjust this according to your project setup
         
+      
     - name: Run Python script
       run: python main.py
