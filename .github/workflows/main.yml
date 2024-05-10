@@ -23,4 +23,4 @@ jobs:
         # You might need to adjust this according to your project setup
         
     - name: Run Python script
-      run: python file.py
+      run: python extraction.py
