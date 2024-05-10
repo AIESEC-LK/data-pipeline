@@ -17,21 +17,8 @@ scopes = ['https://www.googleapis.com/auth/spreadsheets',
           'https://www.googleapis.com/auth/drive']
 
 # GOOGLE_APPLICATION_CREDENTIALS = os.environ['GOOGLE_APPLICATION_CREDENTIALS']
-creds = {
-  "type": "service_account",
-  "project_id": "aiesec-data",
-  "private_key_id": "9edf63e4dd234b1081472258729e3ce01f0ada05",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAjbMwlQ7hxy2i\nR/Pa/WOPFc47uYNkvlpcboKv7FHsmdazjQyGTMZsbT+NlrKQN5RwPx0AO5WuuXkl\n/VxNPtc27yXbDOmKKGL52LI2TxexrDBQWo+T8VS0PCHFj01oixo0gmlLV1MucKBH\nhpnbeYlRwyceoXK91miFd/4JWlilTMo02HS/1dnzoILxGhDEw3c/BQ/Bq9B63Gx2\nEqbzlctPvZ55apOsoyvFa6ef4HQXPEoxoWniXAW8zNuW09b6LcRqtLNhnI1Y3MEY\nxChd8up2W/lJy9O4VE83WhVKY44LwEjCyS1/WVsSD9Ovpvb/mU3mTHMPGWz+w0cY\nt4oDSKRBAgMBAAECggEABPhnZ6WyWhU/zh6CurxzkmMFBT1GOS6Rcy06V/+O9A86\nx7zYZdtTnCMECuPo4TCBFzZm2Y2gMQ/aMucHx9nrWOB6kv1h5iJBn0rG22BmZ3x/\nDQTwa7iFF+etNL38qNod250B6isjc1l+hqggnrXj+7mAkBGpbkFrhmX095F2pDIk\nJKbwprkV3coUNiL8VdjZqOL3qigzEh/iBCWSAV2zak2p1reeMQZ594MLhHQiNQBa\nq2I9mscd7IJI1qrhFnO2bEB+cSJHtZJXHme5krXxW2MVRK60NYrfyG1JMxOI7s3W\npxqmawkmZQ576BlwwsTeICT8HwcBesZWfGNjyx1FEQKBgQD5CC1k8AcDoc95ck+1\nL01VNIPU9CUnD6V5p6+mEhqe1L+6ZTfpfLczNVSVT0io3uk84S0uIJ0MmiUszmkp\n4KW3ZzUCeNwchfxO4mPBNAqndMSsKs0Un91oYQICmP1xMbAIQhIQWXblJtYq4JV8\n9IotQeDRPM2oBgdpWHpv6R34kQKBgQDF8PdStkON7/28S3Nu82YSfnqGkjAnGFm9\n+o1QggmbTwwh0edfuLTcPOVKIt51bMTwPf8DOTbmDIn9HxNs26sfBIORYDEUvA53\n6CUHZGSphNu+igkekLXhcqyvJjoCNF/zowLx4LoOmymfys6Sr/zEPFPot4UhltyS\nBjV9OLdIsQKBgQCGyP1Ax4UUWyzfL5aimxKBDmZYCTheluJaIP85pEzSMJYA/a2w\navcA+VlpYrsR42xbrgh1EePOoVODl8hliRhIVszjJKUFryMrUu7o8BDgJ5wXDydm\nhUwhpXegDkwGSv1ayt/aB4IJbua12E4wjm6HJkPXG9C3o2O5idDi50p4cQKBgFNc\n/bx++IqBpXo0yKPUrItjaxTb4p3Eep8xM2zRp1waeYCQ14IP11Pd7a9AajJIIdUQ\nNyNTaFSQuVi6SsMQ7Mu+ae7C9UjHPsyvH1EyrdZbFvTzS43s4jzVv/ZwAgRFrJd+\nctINlC5smKYskr1ikvDOe4RKLi6MS87QAJ0BUuexAoGARFw4hqvxBx6HYYllVyg9\nI0nKaXPNMYaEEOTwdM1/NDp4xbb31taadq3B5g0hmmv0B6BXx9A4/hhCPN3i6Q3G\n+WseFIX9eq78t/sSJdb1iaFmxVqmDqdo8ynLhe/oMLJWe27E8nlJZOOF5/+06GkR\nnKiz2ljtCyNY70XG7SfH3jg=\n-----END PRIVATE KEY-----\n",
-  "client_email": "lc-rank-dashboard@aiesec-data.iam.gserviceaccount.com",
-  "client_id": "116706230928808272904",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lc-rank-dashboard%40aiesec-data.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
 
-credentials = Credentials.from_service_account_file(creds, scopes=scopes)
+credentials = Credentials.from_service_account_file("google_secret.json", scopes=scopes)
 
 gc = gspread.authorize(credentials)
 
