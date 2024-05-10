@@ -15,7 +15,7 @@ from pydrive.drive import GoogleDrive
 scopes = ['https://www.googleapis.com/auth/spreadsheets',
           'https://www.googleapis.com/auth/drive']
 
-credentials = Credentials.from_service_account_file('google.json', scopes=scopes)
+credentials = Credentials.from_service_account_file('google_secret.json', scopes=scopes)
 
 gc = gspread.authorize(credentials)
 
@@ -100,11 +100,20 @@ async def process():
 
     # Create tasks to concurrently write dataframes to spreadsheets
     async def write_to_spreadsheet(spreadsheet_id, df):
-        spreadsheet = gc.open_by_key(spreadsheet_id)
-        worksheet = spreadsheet.sheet1  # You might want to adjust this depending on your sheet structure
-        worksheet.clear()
-        set_with_dataframe(worksheet=worksheet, dataframe=df, include_index=False, include_column_header=True, resize=True)
-
+        try:
+            spreadsheet = gc.open_by_key(spreadsheet_id)
+            worksheet = spreadsheet.sheet1  # You might want to adjust this depending on your sheet structure
+            worksheet.clear()
+            set_with_dataframe(worksheet=worksheet, dataframe=df, include_index=False, include_column_header=True, resize=True)
+        except gspread.exceptions.APIError as e:
+            # Handle API errors
+            print(f"An API error occurred: {e}")
+        except gspread.exceptions.SpreadsheetNotFound as e:
+            # Handle SpreadsheetNotFound errors
+            print(f"Spreadsheet not found: {e}")
+        except Exception as e:
+            # Handle other exceptions
+            print(f"An unexpected error occurred: {e}")
     write_tasks = [write_to_spreadsheet(spreadsheet_id, df) for spreadsheet_id, df in zip(spreadsheet_ids, df_list)]
     
     # Run tasks concurrently
