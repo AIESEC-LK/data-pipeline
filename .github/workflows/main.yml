@@ -1,4 +1,4 @@
-name: Load Data To Sheets
+name: Update Data
 
 # on:
 #   schedule:
@@ -22,6 +22,5 @@ jobs:
         pip install -r requirements.txt
         # You might need to adjust this according to your project setup
         
-      
     - name: Run Python script
-      run: python main.py
+      run: python extraction.py
