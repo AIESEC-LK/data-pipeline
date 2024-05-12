@@ -24,3 +24,11 @@ jobs:
         
     - name: Run Python script
       run: python rank-pipeline/extraction.py
+
+    - name: Commit and push CSV files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update CSV files"
+        git push
