@@ -13,8 +13,8 @@ url = "https://gis-api.aiesec.org/graphql"
 query = """
 query GetallApplications {
   allOpportunityApplication(
-    page: 401
-    per_page: 25
+    page: 4
+    per_page: 2500
     filters: {
       person_home_mc: 1623,
       programmes: [2,8,9],
@@ -37,6 +37,7 @@ query GetallApplications {
       date_matched
       date_realized
       followed_up_date
+      experience_end_date
       cv {
         url
       }
@@ -115,7 +116,7 @@ if response.status_code == 200:
     data = response.json()["data"]["allOpportunityApplication"]["data"]
 
     # Open a CSV file for writing
-    with open("applications5.csv", "w", newline="", encoding="utf-8-sig") as csvfile:
+    with open("applications_extend_4.csv", "w", newline="", encoding="utf-8-sig") as csvfile:
         fieldnames = [
             "EP ID",
             "Application ID",
@@ -124,11 +125,14 @@ if response.status_code == 200:
             "Home MC",
             "Host LC",
             "Host MC",
+            "Status",
+            "Product",
             "Current Status",
             "Applied Date",
             "Approved Date",
             "Accepted Date",
             "Realized Date",
+            "Experience End Date"
         ]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
@@ -146,11 +150,14 @@ if response.status_code == 200:
                     "Home MC": application["home_mc"]["name"],
                     "Host LC": application["host_lc"]["name"],
                     "Host MC": application["opportunity"]["home_mc"]["name"],
+                    "Status": application["status"],
+                    "Product": application["opportunity"]["programme"]["id"],
                     "Current Status": application["current_status"],
                     "Applied Date": application["created_at"],
                     "Approved Date": application["date_approved"],
                     "Accepted Date": application["date_matched"],
                     "Realized Date": application["date_realized"],
+                    "Experience End Date": application["experience_end_date"],
                 }
             )
 
