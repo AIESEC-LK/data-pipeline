@@ -1,8 +1,8 @@
-name: Update Data
+name: Rank Pipeline
 
-# on:
-#   schedule:
-#     - cron: '*/5 * * * *' # Runs the job every 5 minutes
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Runs the job every 5 minutes
 
 jobs:
   build:
@@ -19,8 +19,8 @@ jobs:
         
     - name: Install dependencies
       run: |
-        pip install -r requirements.txt
+        pip install -r rank-pipeline/requirements.txt
         # You might need to adjust this according to your project setup
         
     - name: Run Python script
-      run: python extraction.py
+      run: python rank-pipeline/extraction.py
