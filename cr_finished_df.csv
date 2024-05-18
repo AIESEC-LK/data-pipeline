@@ -48,9 +48,9 @@ Edith Cowan University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Australia
 University of Queensland,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Australia
 Macquarie University,50.0,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Australia
 University of Technology Sydney,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Australia
+University of Sydney,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Australia
 University of New South Wales (UNSW),75.0,0.0%,0.0%,0.0%,75.0%,0.0%,0.0%,Australia
 Monash University,33.33,0.0%,0.0%,0.0%,33.33%,0.0%,0.0%,Australia
-University of Sydney,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Australia
 South Australia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Australia
 D - AIESEC in Australian Catholic University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Australia
 Queensland University of Technology,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Australia
@@ -152,18 +152,18 @@ MARINGÁ,16.67,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Brazil
 JOAO PESSOA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Brazil
 RECIFE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Brazil
 FLORIANÓPOLIS,16.67,20.0%,0.0%,0.0%,66.67%,0.0%,0.0%,Brazil
-RIO DE JANEIRO,60.0,87.5%,0.0%,0.0%,80.0%,0.0%,0.0%,Brazil
 BELO HORIZONTE,13.33,0.0%,50.0%,0.0%,0.0%,11.11%,0.0%,Brazil
-USP,18.52,66.67%,0.0%,0.0%,22.22%,7.69%,0.0%,Brazil
+RIO DE JANEIRO,60.0,87.5%,0.0%,0.0%,80.0%,0.0%,0.0%,Brazil
 CURITIBA,9.3,66.67%,0.0%,0.0%,33.33%,5.56%,0.0%,Brazil
+USP,18.52,66.67%,0.0%,0.0%,22.22%,7.69%,0.0%,Brazil
 MANAUS,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Brazil
 LIMEIRA,16.67,50.0%,0.0%,0.0%,33.33%,0.0%,0.0%,Brazil
 GETÚLIO VARGAS,15.38,100.0%,0.0%,0.0%,0.0%,11.11%,0.0%,Brazil
 BLUMENAU,33.33,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Brazil
-Maceio,50.0,0.0%,0.0%,0.0%,0.0%,50.0%,0.0%,Brazil
-ABC,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Brazil
 FRANCA,33.33,50.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Brazil
+Maceio,50.0,0.0%,0.0%,0.0%,0.0%,50.0%,0.0%,Brazil
 VITÓRIA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Brazil
+ABC,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Brazil
 PORTO ALEGRE,9.09,0.0%,20.0%,0.0%,0.0%,6.25%,0.0%,Brazil
 CHAPECO,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Brazil
 SALVADOR,40.74,54.55%,0.0%,0.0%,50.0%,0.0%,100.0%,Brazil
@@ -209,23 +209,23 @@ SFU,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 YORK,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 WINDSOR,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 MCMASTER,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
+Queen's,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 MRU,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 EDMONTON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
-Queen's,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 MCGILL,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 WESTERN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 LAURIER,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
-WATERLOO,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
-OSHAWA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 MONCTON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
-UBC,16.67,0.0%,0.0%,0.0%,25.0%,0.0%,0.0%,Canada
-UQAM,16.67,0.0%,0.0%,0.0%,25.0%,0.0%,0.0%,Canada
-Toronto Metropolitan University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 CALGARY,13.33,0.0%,7.69%,0.0%,100.0%,0.0%,0.0%,Canada
+UQAM,16.67,0.0%,0.0%,0.0%,25.0%,0.0%,0.0%,Canada
+UBC,16.67,0.0%,0.0%,0.0%,25.0%,0.0%,0.0%,Canada
+CARLETON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
+SASKATOON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
+Toronto Metropolitan University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 Toronto,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 VICTORIA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
-SASKATOON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
-CARLETON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
+WATERLOO,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
+OSHAWA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 CONCEPCIÓN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Chile
 MC CHILE,15.38,0.0%,15.38%,0.0%,0.0%,0.0%,0.0%,Chile
 SANTIAGO DE CHILE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Chile
@@ -245,17 +245,17 @@ EAFIT,33.33,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Colombia
 Javeriana,36.84,100.0%,0.0%,0.0%,66.67%,0.0%,0.0%,Colombia
 EAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 UdeA,50.0,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
-VALLEDUPAR,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 IBAGUÉ,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
-SANTA MARTA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
+VALLEDUPAR,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 SOLAR,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Colombia
+SANTA MARTA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 PASTO,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
-BUCARAMANGA,11.11,50.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
-MONTERIA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
-UPB,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
-TUNJA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 UNINORTE,20.0,33.33%,0.0%,0.0%,100.0%,0.0%,0.0%,Colombia
+BUCARAMANGA,11.11,50.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
+UPB,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 ANDES,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
+TUNJA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
+MONTERIA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 UCR,50.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Costa Rica
 Heredia,33.33,0.0%,0.0%,0.0%,33.33%,0.0%,0.0%,Costa Rica
 MC Costa Rica,3.85,4.35%,0.0%,0.0%,0.0%,0.0%,0.0%,Costa Rica
@@ -266,11 +266,11 @@ BOUAKE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
 MAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
 UMAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
 ABIDJAN SUD,25.0,0.0%,0.0%,0.0%,0.0%,50.0%,0.0%,Cote D'Ivoire
-UMAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
 U-MAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
-DALOA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
 UMAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
+DALOA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
 KORHOGO (Expansion),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
+UMAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
 U-MAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
 ABIDJAN NORD (Expansion),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
 COCODY-ABIDJAN,50.0,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,Cote D'Ivoire
@@ -317,22 +317,22 @@ ESPE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ecuador
 Expansiones Ecuador,25.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Ecuador
 Guayaquil,14.29,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Ecuador
 Manabi,93.33,0.0%,0.0%,0.0%,93.33%,0.0%,0.0%,Ecuador
-Ain Shams University,38.89,53.33%,33.33%,16.67%,66.67%,33.33%,0.0%,Egypt
 Alexandria,23.33,12.5%,0.0%,0.0%,71.43%,0.0%,12.5%,Egypt
+Ain Shams University,38.89,53.33%,33.33%,16.67%,66.67%,33.33%,0.0%,Egypt
 Market expansion,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Egypt
 Menofia,40.0,33.33%,33.33%,100.0%,50.0%,0.0%,0.0%,Egypt
-GUC,50.0,53.33%,50.0%,0.0%,0.0%,0.0%,0.0%,Egypt
 Tanta,33.33,25.0%,0.0%,0.0%,0.0%,0.0%,100.0%,Egypt
+GUC,50.0,53.33%,50.0%,0.0%,0.0%,0.0%,0.0%,Egypt
 MIU,25.0,0.0%,0.0%,0.0%,0.0%,50.0%,0.0%,Egypt
 Mansoura,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Egypt
 Suez,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Egypt
 AUC,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Egypt
 MSA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Egypt
 MUST,40.0,66.67%,0.0%,0.0%,0.0%,0.0%,0.0%,Egypt
-6th October University,58.33,75.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Egypt
 AAST Alexandria,60.0,100.0%,100.0%,0.0%,100.0%,0.0%,0.0%,Egypt
-Cairo University,18.18,50.0%,0.0%,0.0%,0.0%,0.0%,20.0%,Egypt
+6th October University,58.33,75.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Egypt
 Helwan,26.67,60.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Egypt
+Cairo University,18.18,50.0%,0.0%,0.0%,0.0%,0.0%,20.0%,Egypt
 Beni Suef,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Egypt
 Zagazig,66.67,77.78%,100.0%,0.0%,80.0%,0.0%,0.0%,Egypt
 Damietta,100.0,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Egypt
@@ -368,10 +368,10 @@ JYVÄSKYLÄ,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Finland
 Turku,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Finland
 Toulouse,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,France
 Rennes,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,France
+MC France,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,France
 Montpellier Business School,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,France
 Universités de Paris,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,France
 Lyon,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,France
-MC France,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,France
 Rouen,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,France
 INSG,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Gabon
 POG,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Gabon
@@ -388,8 +388,8 @@ KAISERSLAUTERN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
 AACHEN,25.0,0.0%,100.0%,0.0%,0.0%,0.0%,0.0%,Germany
 DARMSTADT,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
 MUENCHEN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
-BIELEFELD,25.0,0.0%,0.0%,0.0%,25.0%,0.0%,0.0%,Germany
 DUESSELDORF,12.5,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Germany
+BIELEFELD,25.0,0.0%,0.0%,0.0%,25.0%,0.0%,0.0%,Germany
 HAMBURG,22.22,0.0%,23.53%,0.0%,0.0%,0.0%,0.0%,Germany
 STUTTGART & HOHENHEIM,50.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Germany
 BERLIN TU,20.0,0.0%,0.0%,0.0%,0.0%,25.0%,0.0%,Germany
@@ -404,12 +404,12 @@ GOETTINGEN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
 MAGDEBURG,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
 KOELN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
 BRAUNSCHWEIG,66.67,0.0%,0.0%,0.0%,66.67%,0.0%,0.0%,Germany
-REGENSBURG,16.67,0.0%,0.0%,0.0%,16.67%,0.0%,0.0%,Germany
-BREMEN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
-DRESDEN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
-AIESEC in Germany,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
 MANNHEIM,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
+BREMEN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
 HALLE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
+REGENSBURG,16.67,0.0%,0.0%,0.0%,16.67%,0.0%,0.0%,Germany
+AIESEC in Germany,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
+DRESDEN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
 NUERNBERG,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
 GIESSEN-MARBURG,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
 AUGSBURG,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Germany
@@ -471,24 +471,24 @@ M.A.H.E.,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
 Surat,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
 Visakhapatnam,25.0,0.0%,50.0%,0.0%,16.67%,0.0%,0.0%,India
 India National Office,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
-JAIPUR,66.67,75.0%,0.0%,0.0%,100.0%,0.0%,0.0%,India
 Hyderabad,14.29,50.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
-Mumbai,35.42,68.75%,12.5%,0.0%,27.78%,0.0%,0.0%,India
+JAIPUR,66.67,75.0%,0.0%,0.0%,100.0%,0.0%,0.0%,India
 Chandigarh,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
+Mumbai,35.42,68.75%,12.5%,0.0%,27.78%,0.0%,0.0%,India
 Ahmedabad,26.67,33.33%,50.0%,0.0%,0.0%,33.33%,0.0%,India
 Delhi University,57.14,100.0%,66.67%,0.0%,100.0%,0.0%,0.0%,India
-Lucknow,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
 Kolkata,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
+Lucknow,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
 Indore,60.0,0.0%,100.0%,0.0%,100.0%,0.0%,0.0%,India
-Jodhpur,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
 Delhi IIT,39.13,57.14%,33.33%,0.0%,60.0%,0.0%,0.0%,India
-Chennai,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
+Jodhpur,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
 Patiala,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
+Chennai,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
 Navi Mumbai,41.67,33.33%,50.0%,0.0%,50.0%,50.0%,0.0%,India
 Dehradun,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
 Ludhiana,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
-Jalandhar,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
 Noida,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
+Jalandhar,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
 Nagpur,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
 VIT,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
 Bengaluru,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,India
@@ -511,15 +511,15 @@ Unpad,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Indonesia
 IPB,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Indonesia
 UNS,100.0,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Indonesia
 UMM,80.0,80.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Indonesia
-USU,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Indonesia
 UPNVJ,66.67,0.0%,0.0%,0.0%,66.67%,0.0%,0.0%,Indonesia
+USU,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Indonesia
 UNHAS,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Indonesia
 BINUS,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Indonesia
 UI,69.23,60.0%,0.0%,0.0%,100.0%,50.0%,0.0%,Indonesia
-Bandung,87.5,100.0%,0.0%,0.0%,0.0%,100.0%,100.0%,Indonesia
 Semarang,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Indonesia
-UNEJ,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Indonesia
+Bandung,87.5,100.0%,0.0%,0.0%,0.0%,100.0%,100.0%,Indonesia
 PU,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Indonesia
+UNEJ,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Indonesia
 UNAND,100.0,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Indonesia
 UGM,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Indonesia
 UNJ,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Indonesia
@@ -548,8 +548,8 @@ UCD (Expansion),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ireland
 Napoli Federico II,50.0,55.56%,0.0%,0.0%,0.0%,0.0%,0.0%,Italy
 PoliTO,50.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Italy
 ITALIA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Italy
-Roma Sapienza,25.0,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,Italy
 Brescia,50.0,0.0%,0.0%,0.0%,66.67%,0.0%,0.0%,Italy
+Roma Sapienza,25.0,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,Italy
 Bologna,11.11,20.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Italy
 Venezia,30.0,42.86%,0.0%,0.0%,0.0%,0.0%,0.0%,Italy
 Torino,33.33,36.36%,0.0%,0.0%,0.0%,0.0%,0.0%,Italy
@@ -558,9 +558,9 @@ Trieste,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Italy
 Padova,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Italy
 Milano,33.33,75.0%,0.0%,0.0%,33.33%,0.0%,0.0%,Italy
 MC Italy,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Italy
-Pavia,100.0,100.0%,0.0%,0.0%,0.0%,100.0%,0.0%,Italy
 Catania,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Italy
 Roma Tre,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Italy
+Pavia,100.0,100.0%,0.0%,0.0%,0.0%,100.0%,0.0%,Italy
 Trento,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Italy
 DOSHISHA UNIVERSITY,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Japan
 HIROSHIMA,50.0,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Japan
@@ -573,8 +573,8 @@ HITOTSUBASHI UNIVERSITY,66.67,0.0%,0.0%,0.0%,66.67%,0.0%,0.0%,Japan
 KOBE UNIVERSITY,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Japan
 HOKKAIDO,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Japan
 NAGOYA CITY UNIVERSITY,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Japan
-RITSUMEIKAN ASIA PACIFIC UNIVERSITY,50.0,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Japan
 The University of Tokyo,50.0,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Japan
+RITSUMEIKAN ASIA PACIFIC UNIVERSITY,50.0,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Japan
 OSAKA METROPOLITAN UNIVERSITY,50.0,0.0%,100.0%,0.0%,0.0%,0.0%,0.0%,Japan
 SOPHIA UNIVERSITY,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Japan
 University of Tsukuba,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Japan
@@ -606,8 +606,8 @@ UoN,12.5,20.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Kenya
 CHUKA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Kenya
 CUEA,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Kenya
 Kabarak University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Kenya
-STRATHMORE UNIVERSITY,37.5,0.0%,0.0%,0.0%,37.5%,0.0%,0.0%,Kenya
 JKUAT,40.0,50.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Kenya
+STRATHMORE UNIVERSITY,37.5,0.0%,0.0%,0.0%,37.5%,0.0%,0.0%,Kenya
 Kenyatta University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Kenya
 DAYSTAR,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Kenya
 Moi University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Kenya
@@ -624,9 +624,9 @@ SMU,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Korea
 DWU,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Korea
 CUK,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Korea
 SKKU,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Korea
+INHA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Korea
 EWHA,100.0,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Korea
 PNU,50.0,50.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Korea
-INHA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Korea
 SWU,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Korea
 AUM,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Kuwait
 Kout,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Kuwait
@@ -645,8 +645,8 @@ Beirut,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Lebanon
 MC Lebanon,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Lebanon
 AIESEC in Fendell,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 AIESEC in Central Monrovia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
-Airfield,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 MC Liberia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
+Airfield,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 AME University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 AIESEC in Central Monrovia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 AIESEC In Capitol Hill,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
@@ -669,13 +669,13 @@ SKOPJE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Macedonia
 SU STIP,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Macedonia
 Shenzhen,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mainland of China
 Wenzhou,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mainland of China
-Xiamen,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mainland of China
 "Mainland of China, Alumni",0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mainland of China
+Xiamen,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mainland of China
 "Mainland of China, Membership Committee",0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mainland of China
 Ningbo,50.0,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Mainland of China
 Beijing East,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Mainland of China
-Chengdu,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mainland of China
 Nanjing,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mainland of China
+Chengdu,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mainland of China
 Shanghai,66.67,0.0%,0.0%,0.0%,66.67%,0.0%,0.0%,Mainland of China
 Beijing West,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mainland of China
 Suzhou,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Mainland of China
@@ -694,16 +694,16 @@ Lilongwe,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Malawi
 Penang,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Malaysia
 "Heriot-Watt University Malaysia Campus (HWUM) , Putrajaya",0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Malaysia
 "Universiti Tunku Abdul Rahman (UTAR) , Kampar Perak",0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Malaysia
-Kuching,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Malaysia
 "Taylor's University (TU) , Subang Jaya",14.29,0.0%,50.0%,0.0%,0.0%,0.0%,0.0%,Malaysia
+Kuching,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Malaysia
 "HELP University (HELP) , Shah Alam",0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Malaysia
 "Sunway (Sunway) , Petaling Jaya",33.33,0.0%,0.0%,0.0%,33.33%,0.0%,0.0%,Malaysia
 MC Malaysia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Malaysia
 "Universiti Putra Malaysia (UPM) , Serdang",66.67,100.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Malaysia
 "Universiti Kebangsaan Malaysia (UKM) , Bangi",0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Malaysia
 Kedah-Perlis (KP),75.0,75.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Malaysia
-"Universiti Malaya (UM) , Kuala Lumpur",100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Malaysia
 Johor Bahru (JB),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Malaysia
+"Universiti Malaya (UM) , Kuala Lumpur",100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Malaysia
 "University of Nottingham Malaysia Campus (UNMC) , Semenyih",0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Malaysia
 Malé,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Maldives
 LC Bamako,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mali
@@ -730,8 +730,8 @@ Ciudad Juárez,33.33,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Mexico
 Toluca,40.0,50.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Mexico
 Aguascalientes,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mexico
 Zacatecas,100.0,0.0%,0.0%,0.0%,100.0%,100.0%,0.0%,Mexico
-UP,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mexico
 Monterrey,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mexico
+UP,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mexico
 BALTI,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Moldova
 CHISINAU,100.0,100.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Moldova
 Expansions I,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mongolia
@@ -744,14 +744,14 @@ Casablanca,6.25,0.0%,0.0%,0.0%,0.0%,0.0%,20.0%,Morocco
 Agadir,8.33,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Morocco
 Morocco (MC),4.35,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Morocco
 Fez,16.67,0.0%,0.0%,0.0%,0.0%,33.33%,0.0%,Morocco
-Beni Mellal,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 Ben Guerir,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
+Beni Mellal,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 Tangier,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 Settat,50.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Morocco
 Ifrane,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 Tetouan,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
-Mohammedia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 Kenitra,57.14,0.0%,0.0%,0.0%,0.0%,66.67%,0.0%,Morocco
+Mohammedia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 Rabat,25.0,0.0%,0.0%,0.0%,0.0%,50.0%,0.0%,Morocco
 El Jadida,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 Khouribga,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
@@ -781,8 +781,8 @@ OTAGO,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,New Zealand
 "WAIKATO, HAMILTON",0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,New Zealand
 KEISER (NOT),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nicaragua
 KEISER (NOT),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nicaragua
-KEISER (NOT),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nicaragua
 Virtual Markets (Nicaragua),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nicaragua
+KEISER (NOT),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nicaragua
 KEISER (NOT),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nicaragua
 KEISER (NOT),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nicaragua
 KEISER,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nicaragua
@@ -809,8 +809,8 @@ Jos,20.0,50.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 Nigerian French Village,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 Benue,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 Calabar,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
-Jamaica (INVALID),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 IBADAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
+Jamaica (INVALID),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 IFE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 BENIN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 BI Oslo,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Norway
@@ -846,11 +846,11 @@ UCA (Asunción),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Paraguay
 UNA (Asunción),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Paraguay
 Universidad San Martin de Porres,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Tacna,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
-EduardoLandia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 URP,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
+EduardoLandia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Tarapoto,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
-Universidades Nacionales - Peru 4,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Universidades Nacionales - Perú 2,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
+Universidades Nacionales - Peru 4,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Puno,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 EduardoLandia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Universidad San Marcos,25.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Peru
@@ -922,11 +922,11 @@ IASI,40.0,0.0%,50.0%,0.0%,0.0%,0.0%,0.0%,Romania
 ORADEA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Romania
 BUCURESTI,76.47,85.71%,0.0%,0.0%,0.0%,100.0%,0.0%,Romania
 PITESTI,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Romania
-SIBIU,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Romania
 Cluj-Napoca,45.0,77.78%,20.0%,0.0%,50.0%,0.0%,0.0%,Romania
 TIMISOARA,50.0,0.0%,50.0%,0.0%,0.0%,0.0%,0.0%,Romania
-University of Bucharest,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Romania
+SIBIU,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Romania
 GALATI,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Romania
+University of Bucharest,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Romania
 IZHEVSK - VAM,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 YAROSLAVL',0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 ORENBURG - VAM,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
@@ -937,22 +937,22 @@ Kursk,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 REU (Moscow),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 CHELYABINSK - Expansions,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 TOMSK - VAM,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
-NOVOSIBIRSK - Expansion,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 KALININGRAD - Expansions,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
+NOVOSIBIRSK - Expansion,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 KAZAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 "SPUEF, Saint-Petersburg",0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 OMSK - VAM,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 PERM,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 TYUMEN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
-EKATERINBURG,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 Rostov-on-Don,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
+EKATERINBURG,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 MOSCOW,14.29,0.0%,0.0%,0.0%,0.0%,20.0%,0.0%,Russia
 VAM RUSSIA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 "ENGEC-GUAP, Saint-Petersburg",25.0,0.0%,0.0%,0.0%,0.0%,50.0%,0.0%,Russia
 NIZHNY NOVGOROD,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 ULAN-UDE - VAM,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
-RUSSIA (MC),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 UFA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
+RUSSIA (MC),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 KRASNODAR - VAM,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Russia
 CBE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Rwanda
 CST,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Rwanda
@@ -1148,12 +1148,12 @@ Kasese LC,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Uganda
 MC uganda,25.0,28.57%,0.0%,0.0%,0.0%,0.0%,0.0%,Uganda
 UCU,57.14,57.14%,0.0%,0.0%,0.0%,0.0%,0.0%,Uganda
 Makerere University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Uganda
-"Cavendish University, Kampala",0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Uganda
 MUBS,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Uganda
+"Cavendish University, Kampala",0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Uganda
 Kasese LC,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Uganda
 UMU,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Uganda
-NDEJJE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Uganda
 KYAMBOGO,37.5,50.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Uganda
+NDEJJE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Uganda
 IVANO-FRANKIVSK,75.0,0.0%,0.0%,0.0%,85.71%,0.0%,0.0%,Ukraine
 CHERKASY,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ukraine
 KYIV,40.0,0.0%,0.0%,0.0%,66.67%,30.77%,0.0%,Ukraine
@@ -1161,8 +1161,8 @@ UZHHOROD,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ukraine
 ODESA,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Ukraine
 ZAPORIZHZHIA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ukraine
 Kyiv Universities,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ukraine
-MC Ukraine,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ukraine
 KROPYVNYTSKYI,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ukraine
+MC Ukraine,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ukraine
 KHARKIV,50.0,0.0%,0.0%,0.0%,66.67%,33.33%,0.0%,Ukraine
 RIVNE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ukraine
 SUMY,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ukraine
@@ -1197,11 +1197,11 @@ NORTHWESTERN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 University of California Los Angeles (UCLA),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 University of Southern California (USC),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 CHAPEL HILL,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
-MADISON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 UNITED STATES (MC),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
+MADISON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 MARYLAND,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
-YALE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 MIAMI FLORIDA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
+YALE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 OHIO,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 HOUSTON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 NEW YORK CITY,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
