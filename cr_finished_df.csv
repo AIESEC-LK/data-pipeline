@@ -332,8 +332,8 @@ Menofia,40.0,33.33%,33.33%,100.0%,50.0%,0.0%,0.0%,Egypt
 Cairo University,27.27,100.0%,0.0%,0.0%,0.0%,0.0%,20.0%,Egypt
 AAST Alexandria,60.0,100.0%,100.0%,0.0%,100.0%,0.0%,0.0%,Egypt
 MUST,40.0,66.67%,0.0%,0.0%,0.0%,0.0%,0.0%,Egypt
-Tanta,33.33,25.0%,0.0%,0.0%,0.0%,0.0%,100.0%,Egypt
 MIU,25.0,0.0%,0.0%,0.0%,0.0%,50.0%,0.0%,Egypt
+Tanta,33.33,25.0%,0.0%,0.0%,0.0%,0.0%,100.0%,Egypt
 Mansoura,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Egypt
 MSA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Egypt
 Alexandria,22.58,12.5%,0.0%,0.0%,62.5%,0.0%,12.5%,Egypt
@@ -650,10 +650,10 @@ Airfield,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 AIESEC in Central Monrovia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 AIESEC in Fendell,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 AIESEC In Capitol Hill,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
-Tubman University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
-Expansions Liberia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 Airfield,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 AIESEC in Central Monrovia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
+Expansions Liberia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
+Tubman University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 AIESEC in Central Monrovia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 United Methodist University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 MC Switzerland,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liechtenstein
@@ -746,14 +746,14 @@ Marrakech,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 Agadir,8.33,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Morocco
 Fez,14.29,0.0%,0.0%,0.0%,0.0%,33.33%,0.0%,Morocco
 Tangier,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
-Casablanca,6.25,0.0%,0.0%,0.0%,0.0%,0.0%,20.0%,Morocco
 Ben Guerir,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
+Casablanca,6.25,0.0%,0.0%,0.0%,0.0%,0.0%,20.0%,Morocco
 Beni Mellal,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 Settat,50.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Morocco
 Ifrane,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 Tetouan,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
-Kenitra,57.14,0.0%,0.0%,0.0%,0.0%,66.67%,0.0%,Morocco
 Mohammedia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
+Kenitra,57.14,0.0%,0.0%,0.0%,0.0%,66.67%,0.0%,Morocco
 Rabat,25.0,0.0%,0.0%,0.0%,0.0%,50.0%,0.0%,Morocco
 El Jadida,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 Meknes,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
