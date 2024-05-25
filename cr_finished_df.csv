@@ -647,13 +647,13 @@ AIESEC in Central Monrovia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 MC Liberia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 AIESEC In Capitol Hill,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 AME University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
-Airfield,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 AIESEC in Central Monrovia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
+Airfield,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 AIESEC in Fendell,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
+AIESEC in Central Monrovia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
+Airfield,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 Expansions Liberia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 Tubman University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
-AIESEC in Central Monrovia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
-Airfield,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 AIESEC in Central Monrovia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 United Methodist University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liberia
 MC Switzerland,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Liechtenstein
@@ -754,8 +754,8 @@ Ifrane,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 Tetouan,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 Kenitra,57.14,0.0%,0.0%,0.0%,0.0%,66.67%,0.0%,Morocco
 Mohammedia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
-El Jadida,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 Rabat,25.0,0.0%,0.0%,0.0%,0.0%,50.0%,0.0%,Morocco
+El Jadida,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 Meknes,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Morocco
 MC Mozambique,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mozambique
 BEIRA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mozambique
@@ -806,12 +806,12 @@ AMD,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 Nigerian French Village,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 Ilorin,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 PORT HARCOURT,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
-Lagos,100.0,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 Jos,20.0,50.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
+Lagos,100.0,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 Benue,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 AKURE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
-IBADAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 IFE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
+IBADAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 BENIN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Nigeria
 BI Oslo,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Norway
 Høyskolen kristiania,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Norway
@@ -1124,12 +1124,12 @@ ANTALYA,54.55,40.0%,33.33%,0.0%,87.5%,0.0%,0.0%,Turkey
 KOCAELI,17.02,38.46%,8.33%,5.08%,75.0%,100.0%,0.0%,Turkey
 DENIZLI,37.5,75.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Turkey
 ISTANBUL,40.82,61.9%,15.0%,0.0%,95.0%,22.22%,0.0%,Turkey
-ANKARA,45.45,68.42%,0.0%,0.0%,85.71%,50.0%,0.0%,Turkey
 ISTANBUL WEST,18.67,50.0%,0.0%,4.76%,100.0%,0.0%,0.0%,Turkey
-TRABZON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Turkey
-KONYA,7.14,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Turkey
-BURSA,28.12,72.73%,8.33%,11.76%,75.0%,66.67%,0.0%,Turkey
 GAZIANTEP,11.63,75.0%,0.0%,3.12%,100.0%,0.0%,0.0%,Turkey
+TRABZON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Turkey
+BURSA,28.12,72.73%,8.33%,11.76%,75.0%,66.67%,0.0%,Turkey
+KONYA,7.14,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Turkey
+ANKARA,45.45,68.42%,0.0%,0.0%,85.71%,50.0%,0.0%,Turkey
 EASTERN MEDITERRANEAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Turkey
 ADANA,26.47,72.73%,33.33%,0.0%,0.0%,0.0%,0.0%,Turkey
 SAKARYA,31.25,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Turkey
@@ -1159,8 +1159,8 @@ Kyiv Universities,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ukraine
 KROPYVNYTSKYI,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ukraine
 MC Ukraine,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ukraine
 ODESA,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Ukraine
-KYIV,40.0,0.0%,0.0%,0.0%,66.67%,30.77%,0.0%,Ukraine
 IVANO-FRANKIVSK,75.0,0.0%,0.0%,0.0%,85.71%,0.0%,0.0%,Ukraine
+KYIV,40.0,0.0%,0.0%,0.0%,66.67%,30.77%,0.0%,Ukraine
 KHARKIV,50.0,0.0%,0.0%,0.0%,66.67%,33.33%,0.0%,Ukraine
 VINNYTSIA,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Ukraine
 DNIPRO,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Ukraine
