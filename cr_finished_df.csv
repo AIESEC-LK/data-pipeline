@@ -197,10 +197,10 @@ Brock,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 MEMORIAL,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 HEC,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 HALIFAX,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
+CONCORDIA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 MCMASTER,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 MC Canada,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 MANITOBA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
-CONCORDIA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 OTTAWA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 McGill (Macdonald),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 SFU,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
@@ -209,23 +209,23 @@ GUELPH,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 WINDSOR,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 LAVAL,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 SHERBROOKE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
+EDMONTON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 Queen's,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 MRU,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
-EDMONTON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 MCGILL,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 WESTERN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 LAURIER,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
-CALGARY,12.5,0.0%,7.69%,0.0%,50.0%,0.0%,0.0%,Canada
-UQAM,14.29,0.0%,0.0%,0.0%,20.0%,0.0%,0.0%,Canada
-UBC,16.67,0.0%,0.0%,0.0%,25.0%,0.0%,0.0%,Canada
-CARLETON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
-SASKATOON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 Toronto Metropolitan University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
-Toronto,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
-VICTORIA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
-WATERLOO,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
 OSHAWA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
+SASKATOON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
+UQAM,14.29,0.0%,0.0%,0.0%,20.0%,0.0%,0.0%,Canada
+CARLETON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
+Toronto,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
+UBC,16.67,0.0%,0.0%,0.0%,25.0%,0.0%,0.0%,Canada
 MONCTON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
+WATERLOO,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
+VICTORIA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Canada
+CALGARY,12.5,0.0%,7.69%,0.0%,50.0%,0.0%,0.0%,Canada
 CONCEPCIÓN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Chile
 MC CHILE,15.38,0.0%,15.38%,0.0%,0.0%,0.0%,0.0%,Chile
 SANTIAGO DE CHILE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Chile
@@ -240,21 +240,21 @@ VILLAVICENCIO,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Colombia
 EXTERNADO,25.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Colombia
 CÚCUTA,50.0,66.67%,0.0%,0.0%,50.0%,0.0%,0.0%,Colombia
 CALI,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
-EAFIT,25.0,0.0%,0.0%,0.0%,33.33%,0.0%,0.0%,Colombia
-MANIZALES,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
-JAVERIANA CALI,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
-NEIVA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 POPAYAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
+JAVERIANA CALI,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
+EAFIT,25.0,0.0%,0.0%,0.0%,33.33%,0.0%,0.0%,Colombia
+NEIVA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
+MANIZALES,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 EAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 UdeA,50.0,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 IBAGUÉ,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 VALLEDUPAR,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 SOLAR,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Colombia
 PASTO,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
-MONTERIA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
-ANDES,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 TUNJA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
+MONTERIA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 UNINORTE,20.0,33.33%,0.0%,0.0%,100.0%,0.0%,0.0%,Colombia
+ANDES,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 SANTA MARTA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Colombia
 UCR,50.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Costa Rica
 Heredia,33.33,0.0%,0.0%,0.0%,33.33%,0.0%,0.0%,Costa Rica
@@ -273,8 +273,8 @@ U-MAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
 ABIDJAN NORD (Expansion),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
 UIPA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
 COCODY-ABIDJAN,33.33,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,Cote D'Ivoire
-BOUAKE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
 DALOA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
+BOUAKE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
 UMAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
 U-MAN (Expansion),50.0,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Cote D'Ivoire
 U-MAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Cote D'Ivoire
@@ -722,8 +722,8 @@ ITAM,10.0,0.0%,28.57%,0.0%,0.0%,0.0%,0.0%,Mexico
 IPN,6.67,33.33%,0.0%,0.0%,0.0%,0.0%,0.0%,Mexico
 Guanajuato,25.0,0.0%,0.0%,0.0%,0.0%,50.0%,0.0%,Mexico
 UP,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mexico
-Puebla,20.0,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Mexico
 Sinaloa,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mexico
+Puebla,20.0,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Mexico
 Querétaro,14.29,0.0%,0.0%,0.0%,25.0%,0.0%,0.0%,Mexico
 Guadalajara,10.0,20.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mexico
 UNAM,11.11,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Mexico
@@ -851,13 +851,13 @@ Puno,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Tacna,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Universidad San Martin de Porres,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Lima,16.13,0.0%,0.0%,0.0%,0.0%,16.67%,0.0%,Peru
-Huanuco,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Blank 1,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
+Huanuco,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Universidad San Marcos,25.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Peru
-LC Xxxx,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
-URP,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Universidades Nacionales - Perú 2,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
+URP,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Universidades Nacionales - Peru 1,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
+LC Xxxx,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Universidades Nacionales - Peru 4,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Pacifico,19.44,0.0%,33.33%,0.0%,50.0%,0.0%,0.0%,Peru
 Universidades Nacionales,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
@@ -866,10 +866,10 @@ Cusco,50.0,100.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Peru
 Arequipa,66.67,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Peru
 EduardoLandia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 EduardoLandia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
-Trujillo,53.85,0.0%,0.0%,0.0%,71.43%,33.33%,0.0%,Peru
 Catolica,40.0,100.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Peru
-PERU,66.67,0.0%,100.0%,0.0%,100.0%,0.0%,0.0%,Peru
+Trujillo,53.85,0.0%,0.0%,0.0%,71.43%,33.33%,0.0%,Peru
 CAJAMARCA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
+PERU,66.67,0.0%,100.0%,0.0%,100.0%,0.0%,0.0%,Peru
 Chiclayo,20.0,0.0%,0.0%,0.0%,25.0%,0.0%,0.0%,Peru
 Blank,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Universidades Nacionales - Perú 3,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
@@ -922,8 +922,8 @@ ORADEA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Romania
 ROMANIA (National),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Romania
 PITESTI,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Romania
 Craiova,100.0,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Romania
-Cluj-Napoca,42.86,77.78%,16.67%,0.0%,50.0%,0.0%,0.0%,Romania
 TIMISOARA,50.0,0.0%,50.0%,0.0%,0.0%,0.0%,0.0%,Romania
+Cluj-Napoca,42.86,77.78%,16.67%,0.0%,50.0%,0.0%,0.0%,Romania
 SIBIU,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Romania
 GALATI,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Romania
 University of Bucharest,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Romania
@@ -1172,10 +1172,10 @@ Dubai,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United Arab Emirates
 ECB,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United Arab Emirates
 Sharjah,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United Arab Emirates
 UAE (MC),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United Arab Emirates
+ABERDEEN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United Kingdom
 WARWICK,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United Kingdom
 KING'S COLLEGE LONDON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United Kingdom
 EDINBURGH,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United Kingdom
-ABERDEEN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United Kingdom
 LEEDS,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United Kingdom
 IMPERIAL COLLEGE LONDON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United Kingdom
 UCL,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United Kingdom
@@ -1196,16 +1196,16 @@ HOUSTON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 MICHIGAN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 NEW YORK CITY,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 University of California Los Angeles (UCLA),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
-CHAPEL HILL,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 YALE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
+CHAPEL HILL,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 MIAMI FLORIDA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 University of Southern California (USC),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
-DALLAS,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 SEATTLE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
-ATLANTA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
+DALLAS,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 COLORADO,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
-MADISON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
+ATLANTA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 MARYLAND,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
+MADISON,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 AUSTIN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 ARIZONA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
 GEORGIA (UGA),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,United States
