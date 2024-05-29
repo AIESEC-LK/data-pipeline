@@ -459,8 +459,8 @@ PolyU,50.0,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Hong Kong
 Budapest Business School - KVIK,2.78,0.0%,2.78%,0.0%,0.0%,0.0%,0.0%,Hungary
 Pecs (PeX),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Hungary
 MC Hungary,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Hungary
-Budapest Business School - KÜLKER,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Hungary
 Veszprém,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Hungary
+Budapest Business School - KÜLKER,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Hungary
 SZIE - Budapest,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Hungary
 BME - Budapest,6.06,0.0%,6.67%,0.0%,0.0%,0.0%,0.0%,Hungary
 Budapest University - KÖZGÁZ,15.22,0.0%,15.22%,0.0%,0.0%,0.0%,0.0%,Hungary
@@ -852,8 +852,8 @@ Puno,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Universidad San Marcos,25.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Peru
 EduardoLandia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Universidad San Martin de Porres,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
-Blank 1,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Huanuco,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
+Blank 1,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 LC Xxxx,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 URP,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Universidades Nacionales - Perú 2,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
@@ -863,17 +863,17 @@ Pacifico,19.44,0.0%,33.33%,0.0%,50.0%,0.0%,0.0%,Peru
 Universidades Nacionales,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Ica,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Cusco,50.0,100.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Peru
-EduardoLandia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Arequipa,66.67,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Peru
 EduardoLandia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
-CAJAMARCA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
+EduardoLandia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
+PERU,66.67,0.0%,100.0%,0.0%,100.0%,0.0%,0.0%,Peru
 Trujillo,53.85,0.0%,0.0%,0.0%,71.43%,33.33%,0.0%,Peru
 Catolica,40.0,100.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Peru
-PERU,66.67,0.0%,100.0%,0.0%,100.0%,0.0%,0.0%,Peru
+CAJAMARCA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Chiclayo,20.0,0.0%,0.0%,0.0%,25.0%,0.0%,0.0%,Peru
 Blank,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
-Universidades Nacionales - Perú 3,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Huancayo,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
+Universidades Nacionales - Perú 3,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Ateneo de Manila University,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Philippines
 De La Salle - College of St. Benilde,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Philippines
 De La Salle University,33.33,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Philippines
@@ -1019,7 +1019,7 @@ SPAIN,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Spain
 COLOMBO SOUTH,23.08,20.0%,0.0%,0.0%,50.0%,100.0%,0.0%,Sri Lanka
 KANDY,9.09,50.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Sri Lanka
 MC Sri Lanka,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Sri Lanka
-COLOMBO NORTH,32.26,23.81%,0.0%,0.0%,75.0%,0.0%,66.67%,Sri Lanka
+COLOMBO NORTH,33.33,25.0%,0.0%,0.0%,75.0%,0.0%,66.67%,Sri Lanka
 NSBM,100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Sri Lanka
 RUHUNA,50.0,66.67%,0.0%,0.0%,0.0%,100.0%,0.0%,Sri Lanka
 COLOMBO CENTRAL,44.44,53.85%,100.0%,0.0%,0.0%,0.0%,0.0%,Sri Lanka
