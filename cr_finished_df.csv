@@ -22,7 +22,7 @@ Tlemcen,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Algeria
 Andorra La Vella,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Andorra
 Santa Fe,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Argentina
 Buenos Aires UBA FCE,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Argentina
-MC Argentina,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Argentina
+MC Argentina,12.5,0.0%,20.0%,0.0%,0.0%,0.0%,0.0%,Argentina
 La Plata,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Argentina
 Neuquén,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Argentina
 Santiago del Estero,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Argentina
@@ -30,8 +30,8 @@ Córdoba,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Argentina
 Buenos Aires,33.33,0.0%,100.0%,0.0%,0.0%,0.0%,0.0%,Argentina
 Buenos Aires USAL,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Argentina
 Mendoza,50.0,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Argentina
-Rosario (Argentina),70.0,75.0%,0.0%,0.0%,0.0%,50.0%,0.0%,Argentina
 Entre Ríos,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Argentina
+Rosario (Argentina),70.0,75.0%,0.0%,0.0%,0.0%,50.0%,0.0%,Argentina
 San Juan Argentina,14.29,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Argentina
 Bahía Blanca,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Argentina
 Tucumán,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Argentina
@@ -304,7 +304,7 @@ Aarhus,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Denmark
 Copenhagen,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Denmark
 UNIBE (Expansion),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Dominican Republic
 UNPHU (Expansion),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Dominican Republic
-PUCMM (Expansion),50.0,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Dominican Republic
+PUCMM (Expansion),100.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Dominican Republic
 MC Dominican Republic,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Dominican Republic
 PUCE,14.29,50.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ecuador
 UDLA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Ecuador
@@ -458,8 +458,8 @@ Lingnan,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Hong Kong
 PolyU,50.0,0.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Hong Kong
 Budapest Business School - KVIK,2.78,0.0%,2.78%,0.0%,0.0%,0.0%,0.0%,Hungary
 Pecs (PeX),0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Hungary
-MC Hungary,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Hungary
 Veszprém,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Hungary
+MC Hungary,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Hungary
 SZIE - Budapest,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Hungary
 BME - Budapest,6.06,0.0%,6.67%,0.0%,0.0%,0.0%,0.0%,Hungary
 Budapest Business School - KÜLKER,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Hungary
@@ -854,21 +854,21 @@ Puno,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Universidad San Marcos,25.0,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Peru
 Universidad San Martin de Porres,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Blank 1,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
-Tarapoto,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 LC Xxxx,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
+Tarapoto,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Huanuco,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Universidades Nacionales - Peru 4,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
-Pacifico,19.44,0.0%,33.33%,0.0%,50.0%,0.0%,0.0%,Peru
+Pacifico,22.22,12.5%,33.33%,0.0%,50.0%,0.0%,0.0%,Peru
 Piura,12.5,0.0%,0.0%,0.0%,0.0%,12.5%,0.0%,Peru
 Universidades Nacionales,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Ica,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Cusco,50.0,100.0%,0.0%,0.0%,50.0%,0.0%,0.0%,Peru
+EduardoLandia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Arequipa,66.67,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Peru
 EduardoLandia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
-EduardoLandia,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
+PERU,66.67,0.0%,100.0%,0.0%,100.0%,0.0%,0.0%,Peru
 Trujillo,53.85,0.0%,0.0%,0.0%,71.43%,33.33%,0.0%,Peru
 Catolica,40.0,100.0%,0.0%,0.0%,100.0%,0.0%,0.0%,Peru
-PERU,66.67,0.0%,100.0%,0.0%,100.0%,0.0%,0.0%,Peru
 CAJAMARCA,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
 Chiclayo,20.0,0.0%,0.0%,0.0%,25.0%,0.0%,0.0%,Peru
 Blank,0.0,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,Peru
